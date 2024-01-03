@@ -1,4 +1,4 @@
-# 使用matplotlib plt畫圖無法顯示中文
+# 使用matplotlib plt畫圖無法顯示中文 https://hackmd.io/@meebox/rJIqBDUni?utm_source=preview-mode&utm_medium=rec
 # 下載 NotoSansTC-VariableFont_wght.ttf 中文字型 wget.download("https://github.com/jamesallin/ChineseFont/raw/main/NotoSansTC-VariableFont_wght.ttf")
 # 使用 matplotlib 模組的 rc() 函式, 套用字型 mlp.rc('font',family="Noto Sans TC")
 !pip install wget
